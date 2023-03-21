@@ -18,9 +18,9 @@ ImageJ_Semicolon_check_Macro_scripts.py C:\path\to\your\macro.ijm
 - If no semicolons are missing, the script will output "No ';' is missing.".
 
 ### Notes
-The script only checks for missing semicolons at the end of lines. It does not check for other syntax errors in the macro file.
-The script does not modify the macro file in any way.
-The script ignores lines that start with // or /*.
+- The script only checks for missing semicolons at the end of lines. It does not check for other syntax errors in the macro file.
+- The script does not modify the macro file in any way.
+- The script ignores lines that start with // or /*.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
